@@ -1,0 +1,73 @@
+Date,Category,Amount
+2024-01-01,Rent,2500
+2024-01-01,Staff Salaries,8000
+2024-01-01,Advertising,1800
+2024-01-01,Software Tools,400
+2024-01-01,Shipping,550
+2024-01-01,Utilities,300
+2024-02-01,Rent,2500
+2024-02-01,Staff Salaries,8000
+2024-02-01,Advertising,2100
+2024-02-01,Software Tools,420
+2024-02-01,Shipping,580
+2024-02-01,Utilities,310
+2024-03-01,Rent,2500
+2024-03-01,Staff Salaries,8200
+2024-03-01,Advertising,2400
+2024-03-01,Software Tools,430
+2024-03-01,Shipping,620
+2024-03-01,Utilities,295
+2024-04-01,Rent,2500
+2024-04-01,Staff Salaries,8200
+2024-04-01,Advertising,3100
+2024-04-01,Software Tools,450
+2024-04-01,Shipping,660
+2024-04-01,Utilities,320
+2024-05-01,Rent,2500
+2024-05-01,Staff Salaries,8500
+2024-05-01,Advertising,3500
+2024-05-01,Software Tools,460
+2024-05-01,Shipping,700
+2024-05-01,Utilities,330
+2024-06-01,Rent,2500
+2024-06-01,Staff Salaries,8500
+2024-06-01,Advertising,3200
+2024-06-01,Software Tools,470
+2024-06-01,Shipping,720
+2024-06-01,Utilities,310
+2024-07-01,Rent,2500
+2024-07-01,Staff Salaries,8800
+2024-07-01,Advertising,2900
+2024-07-01,Software Tools,480
+2024-07-01,Shipping,740
+2024-07-01,Utilities,290
+2024-08-01,Rent,2500
+2024-08-01,Staff Salaries,8800
+2024-08-01,Advertising,3800
+2024-08-01,Software Tools,490
+2024-08-01,Shipping,760
+2024-08-01,Utilities,305
+2024-09-01,Rent,2600
+2024-09-01,Staff Salaries,9000
+2024-09-01,Advertising,3600
+2024-09-01,Software Tools,500
+2024-09-01,Shipping,780
+2024-09-01,Utilities,315
+2024-10-01,Rent,2600
+2024-10-01,Staff Salaries,9000
+2024-10-01,Advertising,4200
+2024-10-01,Software Tools,520
+2024-10-01,Shipping,800
+2024-10-01,Utilities,330
+2024-11-01,Rent,2600
+2024-11-01,Staff Salaries,9200
+2024-11-01,Advertising,4500
+2024-11-01,Software Tools,530
+2024-11-01,Shipping,820
+2024-11-01,Utilities,340
+2024-12-01,Rent,2600
+2024-12-01,Staff Salaries,9200
+2024-12-01,Advertising,5200
+2024-12-01,Software Tools,550
+2024-12-01,Shipping,900
+2024-12-01,Utilities,360

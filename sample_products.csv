@@ -1,0 +1,6 @@
+Product,Category,Unit_Price,Unit_COGS,Stock
+Widget A,Hardware,19.99,7.50,500
+Widget B,Hardware,34.99,32.00,120
+Gadget Pro,Electronics,59.99,22.00,80
+Service Plan,Service,9.99,0.80,9999
+Add-on Pack,Software,14.99,5.50,300
